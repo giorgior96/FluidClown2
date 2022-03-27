@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb8e561ab3ff0ef999da9090d59843ee06cfc8626",
+  "SCAN_LINK": "https://explorer.fusespark.io/address/0xB8E561ab3Ff0EF999dA9090D59843Ee06Cfc8626",
+  "NETWORK": {
+    "NAME": "FUSE",
+    "SYMBOL": "FUSE",
+    "ID": 123
+  },
+  "NFT_NAME": "Fluid Clown",
+  "SYMBOL": "FLCNFT",
+  "MAX_SUPPLY": 2022,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 50,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Social",
+  "MARKETPLACE_LINK": "https://linktr.ee/fluidclown",
+  "SHOW_BACKGROUND": true
+}
